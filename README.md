@@ -30,5 +30,5 @@ AS A marketing agency, I WANT a codebase that follows accessibility standards SO
 https://saephanhe56.github.io/homework-challenge-1/
 
 ## Screenshot of webpage
-
+![screenshot](/assets/images/saephanhe56.github.io_homework-challenge-1_.png)
 
