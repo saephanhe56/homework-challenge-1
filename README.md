@@ -25,3 +25,9 @@ AS A marketing agency, I WANT a codebase that follows accessibility standards SO
 * Added alt attributes to all image sources
 * Heading attributes fall in sequential order
 * Changed title element to reflect company name
+
+## Page link
+https://saephanhe56.github.io/homework-challenge-1/
+
+## Screenshot of webpage![Screenshot 2023-03-26 at 9 49 50 AM](https://user-images.githubusercontent.com/127634240/227792020-af057674-4b3c-4d29-9284-b524e69ebe85.png)
+
